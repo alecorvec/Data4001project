@@ -1,0 +1,45 @@
+Loading dataset
+Creating tokenizer
+Encoding features
+Train test split
+Computing weight class
+Pretraining GloVe
+Embedded matrix
+Input encoding
+Concatening features
+Compiling the Model
+Training the Model
+Epoch 1/15
+accuracy: 0.4120 - loss: 1.6706
+Epoch 2/15
+accuracy: 0.4827 - loss: 1.0439
+Epoch 3/15
+accuracy: 0.4929 - loss: 1.0329
+Epoch 4/15
+accuracy: 0.5059 - loss: 1.0193
+Epoch 5/15
+accuracy: 0.5204 - loss: 1.0100
+Epoch 6/15
+accuracy: 0.5538 - loss: 0.9788
+Epoch 7/15
+accuracy: 0.5758 - loss: 0.9528
+Epoch 8/15
+accuracy: 0.6165 - loss: 0.9006
+Epoch 9/15
+accuracy: 0.6555 - loss: 0.8438
+Epoch 10/15
+accuracy: 0.6969 - loss: 0.7815
+Epoch 11/15
+accuracy: 0.7365 - loss: 0.7090
+Epoch 12/15
+accuracy: 0.7734 - loss: 0.6370
+Epoch 13/15
+accuracy: 0.8089 - loss: 0.5665
+Epoch 14/15
+accuracy: 0.8413 - loss: 0.5023
+Epoch 15/15
+accuracy: 0.8632 - loss: 0.4461
+Evaluation
+
+360/360 123ms/step
+val_accuracy: 0.8129 - val_loss: 0.5432
